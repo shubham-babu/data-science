@@ -169,7 +169,7 @@ HGA = \sqrt{\frac{AM \times GM \times HM}{3}}
 ## 🔥 Summary Table
 | **Mean Type** | **Formula** | **Use Cases** |
 |--------------|------------|--------------|
-| **Arithmetic Mean (AM)** | \( \frac{1}{N} \sum x_i \) | General averages |
+| **Arithmetic Mean (AM)** | ```\( \frac{1}{N} \sum x_i \) ```| General averages |
 | **Geometric Mean (GM)** | \( \sqrt[N]{\prod x_i} \) | Growth rates, finance |
 | **Harmonic Mean (HM)** | \( \frac{N}{\sum \left( \frac{1}{x_i} \right)} \) | Speed, rates |
 | **Quadratic Mean (RMS)** | \( \sqrt{\frac{1}{N} \sum x_i^2} \) | Physics, ML |
